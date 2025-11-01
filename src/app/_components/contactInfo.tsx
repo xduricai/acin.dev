@@ -31,7 +31,7 @@ export default function ContactInfo() {
           Igor Durica
         </h1>
         <p className="flex items-center gap-2">
-          <MapPinIcon /> Bratislava, Slovakia
+          <MapPinIcon /> Munich, Germany
         </p>
         <p className="flex items-center gap-2">
           <ClockIcon /> {date} (GMT {offset})
